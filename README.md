@@ -5,7 +5,7 @@
 I enjoy developing web applications with accessibility and performance in mind. Got a real passion for creating inclusive solutions with modern tools.
 I like sharing my knowledge to empower others and to build a more inclusive future.
 
-- 🌱 I’m continously learning accessibility and best practices on [FrontendMentor](https://www.frontendmentor.io)
+- 🌱 I’m continously learning accessibility and best practices as well as enhacing my development skills on [FrontendMentor](https://www.frontendmentor.io)
 - 👯 I’m looking to join a developement team that takes consideration of accessibility and good practices
 - 💬 Ask me about anything regarding web development or accessibility best practices.
 
