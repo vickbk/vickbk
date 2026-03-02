@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I am Victoire BAKE
+
+### A pationnate _Web developer_ based In DR Congo
 
 <!--
 **vickbk/vickbk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
