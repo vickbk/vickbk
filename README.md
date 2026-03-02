@@ -2,6 +2,9 @@
 
 ### A pationnate _Web developer_ based In DR Congo
 
+I enjoy developing web applications with accessibility and performance in mind. Got a real passion for creating inclusive solutions with modern tools.
+I like sharing my knowledge to empower others and to build a more inclusive future.
+
 <!--
 **vickbk/vickbk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
