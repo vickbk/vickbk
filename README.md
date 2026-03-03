@@ -2,7 +2,7 @@
 
 ## A pationnate _Web developer_ based In Goma (DR Congo)
 
-I enjoy developing web applications with accessibility, performance and automated tests in mind. Got a real passion for creating inclusive solutions with modern tools.
+I enjoy developing web applications with accessibility, [performance and automated tests](https://github.com/vickbk/multi-step-form) in mind. Got a real passion for creating inclusive solutions with modern tools.
 
 I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
