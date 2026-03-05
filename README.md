@@ -6,7 +6,7 @@ I enjoy developing web applications with accessibility, [performance and automat
 
 I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-I like sharing my knowledge to empower others and to build a more inclusive future.
+I like [sharing my knowledge](https://www.frontendmentor.io/profile/vickbk?tab=code-reviews) to empower others and to build a more inclusive future.
 
 - 🔭 I’m currently working on my online profile
 - 🌱 I’m continously learning accessibility and best practices as well as enhacing my development skills on [FrontendMentor](https://www.frontendmentor.io) and [roadmap.sh](https://roadmap.sh)
