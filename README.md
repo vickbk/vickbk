@@ -4,7 +4,7 @@
 
 I enjoy developing web applications with accessibility, [performance and automated tests](https://github.com/vickbk/multi-step-form) in mind. Got a real passion for creating inclusive solutions with modern tools.
 
-I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I love tackling complex problems, [learning new skills](https://www.frontendmentor.io/profile/vickbk?tab=solutions), and collaborating with diverse teams to create innovative solutions.
 
 I like [sharing my knowledge](https://www.frontendmentor.io/profile/vickbk?tab=code-reviews) to empower others and to build a more inclusive future.
 
